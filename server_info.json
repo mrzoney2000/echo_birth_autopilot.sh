@@ -1,6 +1,6 @@
 {
   "server_user": "adamlechner2000",
-  "server_pass": "sudo passwd adamlechner2000",
+  "server_pass": "YOUR_UBUNTU_PASSWORD",
   "server_host": "35.235.244.33",
   "server_path": "/var/www/html/echo",
   "portal_url": "https://35.235.244.33/steward/"

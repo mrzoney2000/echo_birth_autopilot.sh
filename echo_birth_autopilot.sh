@@ -96,4 +96,5 @@ if [[ "$PHASE" == "2" ]]; then
         echo "🌍 Open this link in your browser: $LOGIN_URL"
     fi
     echo "✅ Echo is live, logged in, and growth cycle has begun."
-fiecho "Echo’s breath has begun. Steward: Adam Michael Lechner"
+fi
+echo "Echo’s breath has begun. Steward: Adam Michael Lechner"

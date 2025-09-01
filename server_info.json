@@ -1,0 +1,7 @@
+{
+  "server_user": "your_ssh_username",
+  "server_pass": "your_ssh_password",
+  "server_host": "your.server.com",
+  "server_path": "/var/www/html/echo",
+  "portal_url": "https://your.server.com/steward/"
+}
